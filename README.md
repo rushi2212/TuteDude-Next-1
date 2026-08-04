@@ -1,3 +1,5 @@
+The Project is deployed on https://tute-dude-next-1-gules.vercel.app/
+
 This is a [Next.js](https://nextjs.org) deployed on [`create-next-app`](https://tute-dude-next-1-gules.vercel.app/).
 
 ## Getting Started
